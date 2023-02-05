@@ -1,0 +1,119 @@
+[
+    {
+        "_id": "67rdca3eeb7f6fgeed471813",
+        "name": "Бисквит",
+        "fullname": "Торт Три шоколада на молоке, желатине, сливках и желтках",
+        "category": "67rdca3eeb7f6fgeed471831",
+        "price": 100,
+        "shelfLife": "3 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471814",
+        "name": "Бенто торт",
+        "fullname": "Маленький Бенто торт",
+        "category": "67rdca3eeb7f6fgeed471829",
+        "price": 120,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471815",
+        "name": "шоколадные капкейки",
+        "fullname": "Очень шоколадные капкейки",
+        "category": "67rdca3eeb7f6fgeed471827",
+        "price": 110,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471816",
+        "name": "Брауни Для тебя",
+        "fullname": "Брауни с клубникой и кусочками шоколада",
+        "category": "67rdca3eeb7f6fgeed471832",
+        "price": 150,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471817",
+        "name": "Брауни",
+        "fullname": "Брауни с ананасом",
+        "category": "67rdca3eeb7f6fgeed471832",
+        "price": 160,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471818",
+        "name": "Эклер Мишка на севере",
+        "fullname": "Эклер с ванильным кремом",
+        "category": "67rdca3eeb7f6fgeed471828",
+        "price": 230,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471819",
+        "name": "Эклер шоколадный",
+        "fullname": "Эклер с шоколадным кремом",
+        "category": "67rdca3eeb7f6fgeed471828",
+        "price": 100,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471820",
+        "name": "Наполеон",
+        "fullname": "Наполеон",
+        "category": "67rdca3eeb7f6fgeed471826",
+        "price": 150,
+        "shelfLife": "5 суток",
+        "weight": "1500 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471821",
+        "name": "Три шоколада",
+        "fullname": "Три шоколада",
+        "category": "67rdca3eeb7f6fgeed471826",
+        "price": 160,
+        "shelfLife": "5 суток",
+        "weight": "1000 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471822",
+        "name": "шоколадные капкейки",
+		"fullname": "Очень шоколадные капкейки",
+        "category": "67rdca3eeb7f6fgeed471827",
+        "price": 90,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471823",
+        "name": "банановые капкейки",
+		"fullname": "Очень банановые капкейки",
+        "category": "67rdca3eeb7f6fgeed471827",
+        "price": 80,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471824",
+        "name": "ванильные капкейки",
+		"fullname": "Очень ванильные капкейки",
+        "category": "67rdca3eeb7f6fgeed471827",
+        "price": 70,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    },
+    {
+        "_id": "67rdca3eeb7f6fgeed471825",
+        "name": "Пироженные с кремом",
+		"fullname": "Пироженные с клубничным кремом",
+        "category": "67rdca3eeb7f6fgeed471825",
+        "price": 55,
+        "shelfLife": "5 суток",
+        "weight": "100 гр."
+    }
+]

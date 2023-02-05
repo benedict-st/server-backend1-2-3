@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "67rdca3eeb7f6fgeed471825",
+    "name": "Пироженные",
+    "image": "cake-01.png",
+    "unique": "сake"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471826",
+    "name": "Торты",
+    "image": "cake-03.png",
+    "unique": "pie"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471827",
+    "name": "Капкейки",
+    "image": "cake-02.png",
+    "unique": "сupcake"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471828",
+    "name": "Эклеры",
+    "image": "cake-04.png",
+    "unique": "eclair"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471829",
+    "name": "Бенто тортик",
+    "image": "cake-03.png",
+    "unique": "bentoCake"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471830",
+    "name": "Круассаны",
+    "image": "cake-01.png",
+    "unique": "croissants"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471831",
+    "name": "Бисквит",
+    "image": "cake-03.png",
+    "unique": "biscuit"
+  },
+  {
+    "_id": "67rdca3eeb7f6fgeed471832",
+    "name": "Брауни",
+    "image": "cake-02.png",
+    "unique": "brownie"
+  }
+]
